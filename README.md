@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafaZenitus
 - 🌱 I'm currently studying Computer Science, here are my projects/courses done in my free time.
-- 📫 How to reach me: rafazenitus@gmail.com
+- 📫 How to reach me: v.xii.rafael@gmail.com
 - 🇧🇷
 
 
