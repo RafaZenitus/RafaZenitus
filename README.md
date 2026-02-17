@@ -2,6 +2,7 @@
 💻 Recent CS graduate | Coding my way through life  
 🎮 Game dev enthusiast & maker of fun projects  
 🚀 Exploring C++, Godot, and creative tech  
+🏢 Full-stack developer at PRODEMG
 📫 Hit me up: v.xii.rafael@gmail.com  
 🇧🇷
 
