@@ -1,9 +1,21 @@
-👋 Hi, I’m @RafaZenitus, Fullstack Developer at PRODEMGE  
-💻 Recent CS graduate | Coding my way through life  
-🎮 Game dev enthusiast & maker of fun projects  
-🚀 Exploring C++, Godot, and creative tech  
-📫 Hit me up: v.xii.rafael@gmail.com  
-🇧🇷
+# Hi, I'm RafaZenitus 👋
+
+**Fullstack Developer | Recent CS Graduate | Game Dev Enthusiast**
+
+I’m passionate about coding my way through life, exploring creative tech, and building projects that are both fun and functional.
+
+---
+
+## About Me
+- 💻 Fullstack developer working on web apps and software projects  
+- 🎮 Game development enthusiast, exploring **C++** and **Godot**  
+- 🛠️ Constantly experimenting with side projects in my free time  
+
+---
+
+## Contact
+📫 Reach me at: [v.xii.rafael@gmail.com](mailto:v.xii.rafael@gmail.com)  
+🌍 Based in Brazil
 
 
 
