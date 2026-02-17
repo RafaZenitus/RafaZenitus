@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @RafaZenitus
-- 🌱 I'm currently studying Computer Science, here are my projects/courses done in my free time.
-- 📫 How to reach me: v.xii.rafael@gmail.com
-- 🇧🇷
+👋 Hi, I’m @RafaZenitus  
+💻 Recent CS graduate | Coding my way through life  
+🎮 Game dev enthusiast & maker of fun projects  
+🚀 Exploring C++, Godot, and creative tech  
+📫 Hit me up: v.xii.rafael@gmail.com  
+🇧🇷
+
 
 
 <!---
