@@ -1,4 +1,4 @@
-# Hi, I'm RafaZenitus 👋
+# Hi, I'm Rafael 👋
 
 **Fullstack Developer | Recent CS Graduate | Game Dev Enthusiast**
 
