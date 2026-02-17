@@ -8,7 +8,7 @@ I’m passionate about coding my way through life, exploring creative tech, and 
 
 ## About Me
 - 💻 Fullstack developer working on web apps and software projects  
-- 🎮 Game development enthusiast, exploring **C++** and **Godot**  
+- 🎮 Game development enthusiast, currently exploring **C++**  
 - 🛠️ Constantly experimenting with side projects in my free time  
 
 ---
