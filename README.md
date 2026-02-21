@@ -1,6 +1,7 @@
-# Hi, I'm Rafael 👋
+# Hi, I'm Rafael
 
 **Fullstack Developer | Recent CS Graduate | Game Dev Enthusiast**
+
 ---
 
 ## About Me
