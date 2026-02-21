@@ -2,7 +2,7 @@
 
 **Fullstack Developer | Recent CS Graduate | Game Dev Enthusiast**
 
-I’m passionate about coding my way through life, exploring creative tech, and building projects that are both fun and functional.
+I’m passionate about coding, exploring creative tech, and building projects that are both fun and functional.
 
 ---
 
