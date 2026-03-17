@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-- Fullstack developer working on web apps and software projects  
+- Working on web apps and software projects  
 - Game development enthusiast, currently exploring **C++**  
 - Constantly experimenting with side projects in my free time  
 
