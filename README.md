@@ -1,6 +1,6 @@
 # Hi, I'm Rafael
 
-**Fullstack Junior Developer | Recent CS Graduate | Game Dev Enthusiast**
+**Fullstack Junior Developer | Game Dev Enthusiast**
 
 ---
 
